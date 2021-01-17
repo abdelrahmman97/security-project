@@ -1,0 +1,10 @@
+E:\C Projects\My-Github\security project\RSA-Algorithm\RSA-Algorithm\bin\Debug\RSA-Algorithm.exe.config
+E:\C Projects\My-Github\security project\RSA-Algorithm\RSA-Algorithm\bin\Debug\RSA-Algorithm.exe
+E:\C Projects\My-Github\security project\RSA-Algorithm\RSA-Algorithm\bin\Debug\RSA-Algorithm.pdb
+E:\C Projects\My-Github\security project\RSA-Algorithm\RSA-Algorithm\obj\Debug\RSA-Algorithm.csprojAssemblyReference.cache
+E:\C Projects\My-Github\security project\RSA-Algorithm\RSA-Algorithm\obj\Debug\RSA_Algorithm.Form1.resources
+E:\C Projects\My-Github\security project\RSA-Algorithm\RSA-Algorithm\obj\Debug\RSA_Algorithm.Properties.Resources.resources
+E:\C Projects\My-Github\security project\RSA-Algorithm\RSA-Algorithm\obj\Debug\RSA-Algorithm.csproj.GenerateResource.cache
+E:\C Projects\My-Github\security project\RSA-Algorithm\RSA-Algorithm\obj\Debug\RSA-Algorithm.csproj.CoreCompileInputs.cache
+E:\C Projects\My-Github\security project\RSA-Algorithm\RSA-Algorithm\obj\Debug\RSA-Algorithm.exe
+E:\C Projects\My-Github\security project\RSA-Algorithm\RSA-Algorithm\obj\Debug\RSA-Algorithm.pdb
